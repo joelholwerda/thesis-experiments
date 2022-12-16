@@ -1,0 +1,14 @@
+
+.DS_Store
+
+01_skew_centre/ExptData/
+
+02_variance/ExptData/
+
+03_skew_edges/skew_edges_a/ExptData/
+
+03_skew_edges/skew_edges_b/ExptData/
+
+06_temporal/ExptData/
+
+*.php
